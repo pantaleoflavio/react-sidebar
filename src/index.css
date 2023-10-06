@@ -120,7 +120,7 @@ p {
   border-radius: var(--btn-radius);
   box-shadow: var(--light-shadow);
   letter-spacing: var(--letter-spacing);
-  font-size: 0.55rem;
+  font-size: 0.75rem;
   transition: var(--btn-transition);
   cursor: pointer;
   font-weight: 700;
